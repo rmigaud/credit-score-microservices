@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import rmigaud.creditscore.repositories.CreditScoreRepo;
 
 @SpringBootTest
-class CreditscoreApplicationTests {
+class CreditScoreApplicationTests {
 
 	@Autowired
 	CreditScoreRepo repo;
